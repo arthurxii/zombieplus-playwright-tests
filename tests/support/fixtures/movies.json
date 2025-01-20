@@ -4,16 +4,16 @@
       "overview": "Um ex-funcionário da ONU precisa percorrer o mundo em uma corrida contra o tempo para impedir que uma pandemia zumbi acabe com a humanidade.",
       "company": "Paramount Pictures",
       "release_year": 2013,
-      "featured": false,
-      "cover": "/images/world_war_z.png"
+      "featured": true,
+      "cover": "/covers/movies/wwz.png"
     },
-    "resident_evil_o_hospede_maldito": {
+    "duplicate": {
       "title": "Resident Evil: O Hóspede Maldito",
       "overview": "Um grupo de elite precisa conter um vírus mortal que transformou os funcionários de uma instalação em zumbis.",
-      "company": "Screen Gems",
+      "company": "Columbia Pictures",
       "release_year": 2002,
       "featured": false,
-      "cover": "/images/resident_evil.png"
+      "cover": "/covers/movies/resident-evil.jpg"
     },
     "exterminio": {
       "title": "Extermínio",
