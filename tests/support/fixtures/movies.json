@@ -15,13 +15,38 @@
       "featured": false,
       "cover": "/covers/movies/resident-evil.jpg"
     },
-    "exterminio": {
+    "to_remove": {
       "title": "Extermínio",
       "overview": "Um vírus experimental transforma pessoas em assassinos furiosos, levando um pequeno grupo de sobreviventes a buscar segurança.",
-      "company": "Fox Searchlight Pictures",
+      "company": "Universal Pictures",
       "release_year": 2002,
       "featured": false,
-      "cover": "/images/28_days_later.png"
+      "cover": "/covers/movies/exterminio.jpg"
+    },
+    "search": {
+      "input": "zumbi",
+      "outputs": [
+          "Zumbilândia",
+          "Invasão Zumbi"
+      ],
+      "data": [
+        {
+          "title": "Zumbilândia",
+          "overview": "Um grupo improvável de sobreviventes viaja pelos Estados Unidos em meio a uma epidemia zumbi com muito humor.",
+          "company": "Columbia Pictures",
+          "release_year": 2009,
+          "featured": false,
+          "cover": "/covers/movies/zombieland.png"
+        },
+        {
+          "title": "Invasão Zumbi",
+          "overview": "Passageiros de um trem de alta velocidade lutam para sobreviver enquanto uma epidemia zumbi se espalha pela Coreia do Sul.",
+          "company": "Fox Entertainment",
+          "release_year": 2016,
+          "featured": false,
+          "cover": "/covers/movies/train_to_busan.png"
+        }
+      ]
     },
     "a_noite_dos_mortos_vivos": {
       "title": "A Noite dos Mortos-Vivos",
@@ -29,15 +54,7 @@
       "company": "Continental Distributing",
       "release_year": 1968,
       "featured": false,
-      "cover": "/images/night_of_the_living_dead.png"
-    },
-    "zumbilandia": {
-      "title": "Zumbilândia",
-      "overview": "Um grupo improvável de sobreviventes viaja pelos Estados Unidos em meio a uma epidemia zumbi com muito humor.",
-      "company": "Columbia Pictures",
-      "release_year": 2009,
-      "featured": false,
-      "cover": "/images/zombieland.png"
+      "cover": "/covers/movies/night_of_the_living_dead.png"
     },
     "todo_mundo_quase_morto": {
       "title": "Todo Mundo Quase Morto",
@@ -45,7 +62,7 @@
       "company": "Universal Pictures",
       "release_year": 2004,
       "featured": false,
-      "cover": "/images/shaun_of_the_dead.png"
+      "cover": "/covers/movies/shaun_of_the_dead.png"
     },
     "eu_sou_a_lenda": {
       "title": "Eu Sou a Lenda",
@@ -53,7 +70,7 @@
       "company": "Warner Bros.",
       "release_year": 2007,
       "featured": false,
-      "cover": "/images/i_am_legend.png"
+      "cover": "/covers/movies/i_am_legend.png"
     },
     "madrugada_dos_mortos": {
       "title": "Madrugada dos Mortos",
@@ -61,7 +78,7 @@
       "company": "Universal Pictures",
       "release_year": 2004,
       "featured": false,
-      "cover": "/images/dawn_of_the_dead.png"
+      "cover": "/covers/movies/dawn_of_the_dead.png"
     },
     "treinamento_para_a_morte": {
       "title": "Treinamento para a Morte",
@@ -69,14 +86,6 @@
       "company": "Netflix",
       "release_year": 2022,
       "featured": false,
-      "cover": "/images/all_of_us_are_dead.png"
-    },
-    "invasao_zumbi": {
-      "title": "Invasão Zumbi",
-      "overview": "Passageiros de um trem de alta velocidade lutam para sobreviver enquanto uma epidemia zumbi se espalha pela Coreia do Sul.",
-      "company": "Next Entertainment World",
-      "release_year": 2016,
-      "featured": false,
-      "cover": "/images/train_to_busan.png"
+      "cover": "/covers/movies/all_of_us_are_dead.png"
     }
   }

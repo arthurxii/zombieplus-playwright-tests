@@ -1,0 +1,103 @@
+{
+    "create": {
+      "title": "The Walking Dead",
+      "overview": "Um grupo de sobreviventes luta para viver em um mundo pós-apocalíptico infestado por zumbis.",
+      "company": "Netflix",
+      "release_year": 2010,
+      "seasons": "11",
+      "featured": true,
+      "cover": "/covers/tvshows/the_walking_dead.jpg"
+    },
+    "duplicate": {
+      "title": "Kingdom",
+      "overview": "Na Coreia feudal, um príncipe herdeiro descobre uma misteriosa praga que transforma pessoas em mortos-vivos.",
+      "company": "Netflix",
+      "release_year": 2019,
+      "seasons": "2",
+      "featured": false,
+      "cover": "/covers/tvshows/kingdom.jpg"
+    },
+    "to_remove": {
+      "title": "Black Summer",
+      "overview": "Nos primeiros dias de um apocalipse zumbi, um grupo de sobreviventes luta para se reencontrar.",
+      "company": "Netflix",
+      "release_year": 2019,
+      "seasons": "2",
+      "featured": true,
+      "cover": "/covers/tvshows/black_summer.jpg"
+    },
+    "search": {
+      "input": "zumbi",
+      "outputs": [
+        "Revolution Zumbi",
+        "Zumbi Nation"
+      ],
+    "data": [
+      {
+        "title": "Revolution Zumbi",
+        "overview": "Em um mundo pós-apocalíptico, grupos de sobreviventes enfrentam hordas de zumbis mutantes enquanto buscam uma cura.",
+        "company": "Paramount Pictures",
+        "release_year": 2021,
+        "seasons": "2",
+        "featured": true,
+        "cover": "/covers/tvshows/revolution_zumbi.jpg"
+        },
+      {
+        "title": "Zumbi Nation",
+        "overview": "Após um experimento fracassado, o mundo é tomado por zumbis ultra-resistentes. Um grupo de cientistas tenta reverter a catástrofe.",
+        "company": "Netflix",
+        "release_year": 2020,
+        "seasons": "3",
+        "featured": false,
+        "cover": "/covers/tvshows/zumbi_nation.jpg"
+      }
+    ]
+    },
+    "daybreak": {
+      "title": "Daybreak",
+      "overview": "Em um mundo pós-apocalíptico dominado por adolescentes e zumbis, um jovem busca sua namorada desaparecida.",
+      "company": "Netflix",
+      "release_year": 2019,
+      "seasons": "1",
+      "featured": true,
+      "cover": "/covers/tvshows/daybreak.jpg"
+    },
+    "z_nation": {
+      "title": "Z Nation",
+      "overview": "Uma equipe precisa transportar o único sobrevivente imune ao vírus zumbi para um laboratório.",
+      "company": "Universal Pictures",
+      "release_year": 2014,
+      "seasons": "5",
+      "featured": false,
+      "cover": "/covers/tvshows/z_nation.jpg"
+    },
+    "dead_set": {
+      "title": "Dead Set",
+      "overview": "Participantes de um reality show não percebem que um apocalipse zumbi está acontecendo do lado de fora.",
+      "company": "Sony Pictures",
+      "release_year": 2008,
+      "seasons": "1",
+      "featured": false,
+      "cover": "/covers/tvshows/dead_set.jpg"
+    },
+    "fear_the_walking_dead": {
+      "title": "Fear the Walking Dead",
+      "overview": "Um grupo de sobreviventes tenta entender os primeiros dias do surto zumbi.",
+      "company": "Netflix",
+      "release_year": 2015,
+      "seasons": "8",
+      "featured": true,
+      "cover": "/covers/tvshows/fear_the_walking_dead.jpg"
+    },
+    "the_last_of_us": {
+      "title": "The Last of Us",
+      "overview": "Joel e Ellie atravessam os EUA devastados por uma pandemia fúngica mortal.",
+      "company": "Columbia Pictures",
+      "release_year": 2023,
+      "seasons": "1",
+      "featured": true,
+      "cover": "/covers/tvshows/the_last_of_us.jpg"
+    }
+}
+  
+  
